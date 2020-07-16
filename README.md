@@ -1,5 +1,6 @@
 # Mermaid
 Mermaid is a platform to get recommendations of where to travel to, explore trips by other travelers and post your own trips.
+<img src="/mermaid_screenshots/mermaid3.png" width="250">
 
 ## How does it recommend trips to you?
 
